@@ -1,1 +1,3 @@
-
+{"id": "1", "source": "twitter", "author": "@user1", "created_at": "2024-11-01T12:02:05Z", "content": "Пример поста с #OSINT", "url": "https://twitter.com/user1/status/123", "metadata": {"retweets": 5, "likes": 12}}
+{"id": "2", "source": "reddit", "author": "anon123", "created_at": "2024-11-02T08:15:10Z", "content": "Комментарий на форуме", "url": "https://reddit.com/r/example/comments/456", "metadata": {"upvotes": 7, "downvotes": 0}}
+{"id": "3", "source": "api_dump", "author": "service_x", "created_at": "2024-11-03T21:00:00Z", "content": {"text": "JSON внутри JSON"}, "url": "https://api.service/x/789", "metadata": {"hash": "b1c9ef"}}
