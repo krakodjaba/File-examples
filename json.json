@@ -1,0 +1,18 @@
+{
+  "user": {
+    "id": "2398871",
+    "username": "osint_example",
+    "bio": "OSINT researcher. Cybersecurity. Maps & data.",
+    "followers": 1821,
+    "created_at": "2015-04-18"
+  },
+  "latest_posts": [
+    {
+      "id": "99100211",
+      "timestamp": "2024-10-03T15:18:21Z",
+      "text": "Новая статья про техническую разведку.",
+      "likes": 52,
+      "hashtags": ["#osint", "#cyber"]
+    }
+  ]
+}
