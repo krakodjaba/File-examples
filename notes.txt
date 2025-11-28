@@ -1,0 +1,3 @@
+# OSINT investigation notes
+Collected initial URLs from Twitter and Telegram channels.
+Planned scraping of public forums.

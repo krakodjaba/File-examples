@@ -1,0 +1,5 @@
+[
+  {"date": "2024-11-01", "event": "Collected initial data"},
+  {"date": "2024-11-02", "event": "Parsed forum posts"},
+  {"date": "2024-11-03", "event": "Built social graph"}
+]
